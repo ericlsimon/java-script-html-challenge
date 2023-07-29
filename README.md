@@ -1,4 +1,4 @@
-# eric-simon-javascript-viz-challenge
+# eric-simon-javascript-html-challenge
 
 ## Module 14
 
